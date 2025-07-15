@@ -5,7 +5,7 @@ GitHubで作った初めてのWebサイトです！
 HTML、CSS、JavaScriptを使って、どんどん改良していきます。
 
 ## 🔗 サイトURL
-`https://[あなたのユーザー名].github.io/my-first-website/`
+`https://teruo-wa.github.io/my-first-website/`
 
 ## 📁 ファイル構成
 - `index.html` - メインページ
